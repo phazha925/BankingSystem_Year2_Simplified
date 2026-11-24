@@ -1,0 +1,10 @@
+# build output
+target/
+# IntelliJ
+.idea/
+*.iml
+out/
+# the local database file (the schema and code are in Git, the data file is not)
+data/
+*.mv.db
+*.trace.db
